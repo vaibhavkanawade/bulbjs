@@ -16,7 +16,7 @@ This project is a simple light bulb on/off switch built using HTML, CSS, and Jav
 ## Setup
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/vaibhavkanawade/bulbjs.git`
 2. Navigate to the project directory: `cd light-bulb-on-off`
 
 ## Usage
